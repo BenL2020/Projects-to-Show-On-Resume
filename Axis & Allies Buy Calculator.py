@@ -1,3 +1,11 @@
+#Benjamin Lambright
+#Experimental buy chart created to figure out what the best combinations of units to by in Axis & Allies Anneversary Edition, Axis & Allies & Zombies, and 
+#any other edition where tanks cost 5 IPCs, artillery 4, and infantry 3.
+
+#RESULTS of tests: https://docs.google.com/document/d/14XMF7NXhI7ju7bOPU15l58gKVZ59dneWQPDB6AMcj8s/edit?usp=sharing
+
+#The following is the code I used to obtain the results
+
 #first import necessary packages and variables
 import numpy as np
 from tabulate import tabulate
