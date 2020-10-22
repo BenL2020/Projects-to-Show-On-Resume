@@ -1,7 +1,7 @@
-#THIS IS THE OFFICIAL, FINAL DRAFT OF MY PROTOTYPE
+#THIS IS THE OFFICIAL, FINAL DRAFT OF MY JUNIOR PROJECT PROTOTYPE
 
 #Benjamin Lambright
-#search program for target words for phonological processes
+#search program for target words for phonological processes (explained more in README)
 #This file should include all the functions necessary to run my complete program for June
 
 #first wrote some functions to manipulate and create my complete lists of words
