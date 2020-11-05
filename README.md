@@ -12,6 +12,6 @@
 
 - Flyting Presentation.pptx: The presentation that went along with my class on flyting. This is the class I described in my Personal Statement essay.
 
-- Junior Project.py: This is the code, in R, for my Junior Project, where I searched for the best words for speech language pathologists to use for their speech therapy sessions with lower elementary students with speech disorders. 
+- Junior Project.py: This is the code, in Python, for my Junior Project, where I searched for the best words for speech language pathologists to use for their speech therapy sessions with lower elementary students with speech disorders. 
 
 - My Clinical Natural Language Processing Project (1).pptx: The is the powerpoint that explains the approach and performance of my code for my Clinical Natural Language Processing course.
