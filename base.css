@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, sans-serif;
+}
+
+p {
+    font-family: Georgia, sans-serif;
+}
+
+.intro {
+    font-size: 125%;
+}
+
+.spacing {
+    line-height: 400%;
+}
+
+.spacing-lite {
+    line-height: 200%;
+}
+
+.contents-spacing {
+    line-height: 50%;
+}
