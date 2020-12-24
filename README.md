@@ -16,4 +16,6 @@
 
 - My Clinical Natural Language Processing Project (1).pptx: The is the powerpoint that explains the approach and performance of my code for my Clinical Natural Language Processing course.
 
+- Polar Coordinates Unit Project is a paper I wrote for my Sophomore pre-calculus class in Shakespearean English. 
+
 - processing.py, base.css, and flask_app.py are the code for my website: http://benl2020.pythonanywhere.com/. This is a website version of my junior project, so it searches for words for speech therapy based on the user's selections. The HTML code for the website is imbeded within flask_app.py.
