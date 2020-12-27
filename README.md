@@ -1,4 +1,4 @@
-# Here are the major programing projects that I am working on or have accomplished!
+# Here are the major projects that I have mentioned in college applications!
 
 - Axis & Allies Buy Calculator Test Results.pdf: Document of the results of a test I did on the optimal purchases in the game. Includes steps to follow so you don't have to run the program, instead just doing some basic math that I realized you could do after running the test.
 
