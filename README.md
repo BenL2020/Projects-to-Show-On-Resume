@@ -1,4 +1,4 @@
-# Here are the major projects that I have mentioned in college applications!
+# Here are the major projects that I have completed!
 
 - Axis & Allies Buy Calculator Test Results.pdf: Document of the results of a test I did on the optimal purchases in the game. Includes steps to follow so you don't have to run the program, instead just doing some basic math that I realized you could do after running the test.
 
@@ -10,12 +10,9 @@
 
 - Final Project Code For Clinical Natural Language Processing.R: The code, in R, for my final project in my Clinical Natural Language Processing course, where I searched doctors' notes for patients' complications from diabetes.
 
-- Flyting Presentation.pptx: The presentation that went along with my class on flyting. This is the class I described in my Personal Statement essay.
 
 - Junior Project.py: This is the code, in Python, for my Junior Project, where I searched for the best words for speech language pathologists to use for their speech therapy sessions with lower elementary students with speech disorders. 
 
 - My Clinical Natural Language Processing Project (1).pptx: This is the powerpoint that explains the approach and performance of my code for my Clinical Natural Language Processing course.
-
-- Polar Coordinates Unit Project (1).pdf: I wrote this paper for my Sophomore pre-calculus class in 16th century (Elizabethan) English (with permission) in order to make it more engaging and fun for myself. 
 
 - processing.py, base.css, and flask_app.py are the code for my website: http://benl2020.pythonanywhere.com/. This is a website version of my junior project, so it searches for words for speech therapy based on the user's selections. The HTML code for the website is imbeded within flask_app.py.
