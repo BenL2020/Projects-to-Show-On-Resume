@@ -10,7 +10,6 @@
 
 - Final Project Code For Clinical Natural Language Processing.R: The code, in R, for my final project in my Clinical Natural Language Processing course, where I searched doctors' notes for patients' complications from diabetes.
 
-
 - Junior Project.py: This is the code, in Python, for my Junior Project, where I searched for the best words for speech language pathologists to use for their speech therapy sessions with lower elementary students with speech disorders. 
 
 - My Clinical Natural Language Processing Project (1).pptx: This is the powerpoint that explains the approach and performance of my code for my Clinical Natural Language Processing course.
